@@ -6,8 +6,8 @@
 <p align="center">
 Software Engineer<br>
 <br>
-<a href="">Portfolio (wip)</a>
- · <a href="">Blog (wip)</a>
+<a href="https://github.com/fdmonroy">Portfolio (wip)</a>
+ · <a href="https://github.com/fdmonroy">Blog (wip)</a>
 <br>
 <br>
 <br>
